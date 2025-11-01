@@ -7,6 +7,7 @@
 - ✔Technologies : Html , Css , javascript , opp
 
 #### This is a cool game that was made to gain a deeper understanding of JavaScript and object-oriented programming.
+#### just use mouse for moving your paddle
 
 # 🌟 Features
 1. change background every 1 miliseconds
